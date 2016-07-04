@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookLooker</string>
+    <string name="search_button_text">Search!</string>
+    <string name="directions_textview">Enter a single keyword to search for your books.</string>
+    <string name="keyword_field_hint">Enter keyword here</string>
+    <string name="book_title">Book Title</string>
+    <string name="book_author">book author</string>
+    <string name="connection_failed">Connection failed. Check network connection settings</string>
+    <string name="connection_successful">Searching for your books!</string>
+    <string name="non_200_response">Unable to retrieve web page. URL may be invalid.</string>
+    <string name="no_results_found">No results found.  Try another keyword!</string>
+    <string name="no_results_found_search">No reults found for your search.</string>
+</resources>
